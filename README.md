@@ -3,5 +3,6 @@ Ejemplos de listas,mapas,funciones,clases y herencias
 - [ ] [Listas]()
 - [ ] [Mapas]()
 - [ ] [Funciones varias]()
+- [ ] [Funciones flecha]()
 - [ ] [Clases]()
 - [ ] [Herencias]()
